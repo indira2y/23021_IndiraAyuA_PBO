@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author I_PF4
+ * @author indira
  */
 public class perkalian {
 

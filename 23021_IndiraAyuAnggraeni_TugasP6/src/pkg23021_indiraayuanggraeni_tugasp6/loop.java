@@ -6,7 +6,7 @@ package pkg23021_indiraayuanggraeni_tugasp6;
 
 /**
  *
- * @author I_PF4
+ * @author indira
  */
 public class loop {
 
